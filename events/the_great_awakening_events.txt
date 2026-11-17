@@ -1,0 +1,3 @@
+# The Great Awakening event chains will live here.
+# Event IDs use the tga_ prefix.
+
